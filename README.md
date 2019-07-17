@@ -18,4 +18,4 @@ This project makes use of the [Google Colaboratory](https://colab.research.googl
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/chaitubhure/HARRISON_tagprediction/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/chaitubhure/Creating-Pop-Art-Images/blob/master/LICENSE) file for details
